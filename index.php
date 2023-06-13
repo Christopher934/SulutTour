@@ -36,8 +36,8 @@
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="about.php">About</a></li>
-                <li><a href="#package">Package</a></li>
-                <li><a href="#book">Book</a></li>
+                <li><a href="package.php">Package</a></li>
+                <li><a href="book.php">Book</a></li>
             </ul>
         </div>
     </nav>

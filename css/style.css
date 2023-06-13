@@ -355,6 +355,57 @@ nav.sticky {
     margin-top: 2rem;
 }
 
+.package {
+    padding: 7rem;
+}
+
+.package .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 2rem;
+}
+
+.package .box-container .box {
+    border: var(--border);
+    box-shadow: var(--box-shadow);
+    background: white;
+}
+
+.package .box-container .box .image {
+    height: 15rem;
+    overflow: hidden;
+}
+
+.package .box-container .box .image img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: .2s linear;
+}
+
+.package .box-container .box .content {
+    padding: 2rem;
+    text-align: center;
+}
+
+.package .box-container .box .content h3 {
+    font-size: 2.5rem;
+    color: var(--light-black);
+    text-transform: capitalize;
+}
+
+.package .box-container .box .content p {
+    font-size: 1.5rem;
+    color: var(--light-black);
+    line-height: 2;
+    padding: 1rem 0;
+}
+
+.package .load-more {
+    text-align: center;
+    margin-top: 2rem;
+}
+
 
 /* team */
 
