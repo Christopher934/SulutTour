@@ -72,11 +72,7 @@
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
-        <!-- <main class="content">
-            <h1>Welcome to Sulawesi Utara</h1>
-            <p>Unique glimpse into the rich culture and natural beauty of Indonesia.</p>
-            <a href="populer.html" class="cta">Explore<i class='bx bxs-right-arrow' id="arrow"></i></a>
-        </main> -->
+        
     </section>
     <!-- hero end -->
 
