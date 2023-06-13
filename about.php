@@ -36,13 +36,13 @@
 <body>
     <!-- navbar -->
     <nav>
-        <a href="#" class="navbar-logo">Sulut<span>TOUR</span></a>
+        <a href="index.php" class="navbar-logo">Sulut<span>TOUR</span></a>
         <div class="navbar-nav">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="#">About</a></li>
-                <li><a href="package.html">Package</a></li>
-                <li><a href="book.html">Book</a></li>
+                <li><a href="package.php">Package</a></li>
+                <li><a href="book.php">Book</a></li>
             </ul>
         </div>
     </nav>

@@ -1,6 +1,6 @@
 
 <?php
-   $connection = mysqli_connect('localhost','root','','book-db');
+   $connection = mysqli_connect('localhost','id20907183_suluttour','p=2-$x_Puq=ZFUL#','id20907183_book_db');
 
    if(isset($_POST['send'])){
     $name = $_POST['name'];

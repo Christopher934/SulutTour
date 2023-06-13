@@ -31,10 +31,10 @@
 <body>
     <!-- navbar -->
     <nav>
-        <a href="#" class="navbar-logo">Sulut<span>TOUR</span></a>
+        <a href="index.php" class="navbar-logo">Sulut<span>TOUR</span></a>
         <div class="navbar-nav">
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="#home">Home</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="package.php">Package</a></li>
                 <li><a href="book.php">Book</a></li>
