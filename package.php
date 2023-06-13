@@ -34,7 +34,7 @@
         <a href="#" class="navbar-logo">Sulut<span>TOUR</span></a>
         <div class="navbar-nav">
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="package.php">Package</a></li>
                 <li><a href="book.php">Book</a></li>
@@ -237,7 +237,7 @@
 
         </div>
 
-        <div class="load-more"><a href="package.php" class="btn">load more</a></div>
+        <div class="load-more"><span class="btn">load more</span></div>
 
     </section>
 
